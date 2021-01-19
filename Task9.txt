@@ -1,0 +1,10 @@
+I learned to both write cin/ cout and printf/scanf from this lab.
+
+I was already familiar with types/for/while/do-while from C#.
+
+Indexation from the 'scanf_s()' was difficult for me to wrap my head around.
+
+I didn't really figure it out more than that I managed to get the lab done.
+
+I think that you should be more free to chose the approach to the Tasks,
+but that the Problem would be more logical.
